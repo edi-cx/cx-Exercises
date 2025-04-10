@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        This page is vulnerable to command injection.
+        This page is vulnerable to command injection comments.
         <br /><br />
         <asp:TextBox ID="systemname" runat="server" /> <asp:Button runat="server" ID="submit" OnClick="submit_Click" Text="Submit" />
         <br /><br />
